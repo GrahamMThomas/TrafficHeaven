@@ -31,3 +31,5 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 + C#
 + UI
 + Unity Game Engine
++ Genetic Algorithm
++ Neural Network (MLP)
